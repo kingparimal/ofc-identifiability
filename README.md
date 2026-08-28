@@ -1,2 +1,2 @@
 # ofc-identifiability
-Optimal Feedback Control Identifiability for sensorimotor tasks
+Optimal Feedback Control Identifiability for sensorimotor tasks for MSc thesis.
