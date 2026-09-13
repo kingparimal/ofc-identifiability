@@ -1,9 +1,7 @@
-# ofc-identifiability
-Optimal Feedback Control Identifiability for sensorimotor tasks for MSc thesis.
-
 # Two published discretisations of the Todorov & Jordan (2002) muscle filter are not the same plant
 
-MATLAB code accompanying "[TITLE]" (submitted to *eNeuro*).
+MATLAB code accompanying "A specification discrepancy in the muscle filter of the Todorov–Jordan optimal feedback control model, and the convention that reproduces the published behavior<img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/59df3e8f-0ca2-4d4c-80b1-8a276e416a65" />
+" (submitted to *eNeuro*).
 
 Todorov & Jordan (2002) and Todorov (2005) describe the same
 second-order muscle filter but discretise it differently. The two
